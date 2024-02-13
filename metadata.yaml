@@ -1,0 +1,27 @@
+_repo: L-illusion-liberale_72844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Veuillot, Louis
+    gutenberg_agent_id: '56831'
+    url: http://www.gutenberg.org/2009/agents/56831
+description: ''
+gutenberg_issued: '2024-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72844'
+language: fr
+pgterms:marc904: https://archive.org/details/veuil-iotlluslibgoog
+pgterms:marc905: 20240128005742veuillot
+pgterms:marc906: '1866'
+pgterms:marc907: fr
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bpalmé, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'illusion libérale
+url: http://www.gutenberg.org/ebooks/72844
